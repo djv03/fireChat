@@ -112,7 +112,7 @@ function loadMessages() {
   
   // Start listening to the query.
   onSnapshot(recentMessagesQuery, function(snapshot) {
-    snapshot.docChanges().forEach(function(change) {
+    snapshot.docChanges().forEach(function(change) {      
       if (change.type === 'removed') {
         deleteMessage(change.doc.id);
       } else {
