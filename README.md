@@ -1,5 +1,14 @@
 # Firebase Web Codelab - Start code
+ make your chat fast and smooth with power of google authenticationa and cloud storage.
+ 
+ for running this project locally:
+ 1. clone project
+ 2. run: npm install
+ 3. run(in different terminal):firebase serve --only hosting
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+OR
+use it directly at [here](https://friendlychat-a740a.firebaseapp.com/)
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+hope you like it.
+
+HAPPPY CODING!!!
